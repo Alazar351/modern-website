@@ -26,7 +26,7 @@ export default function Navbar() {
           })}
         </div>
       </div>
-      <div className="flex gap-5">
+      <div className="flex gap-5 items-center">
         <p className="hidden font-medium text-[#36485C] lg:block pr-[56px]">
           Open an Account
         </p>
