@@ -1,10 +1,10 @@
-import Feature1 from "../../public/feature1.svg";
-import Feature2 from "../../public/feature2.svg";
-import Feature3 from "../../public/feature3.svg";
-import Check from "../../public/check.svg";
-import BlueArrow from "../../public/blueArrow.svg";
-import RedArrow from "../../public/redArrow.svg";
-import GreenArrow from "../../public/greenArrow.svg";
+import Feature2 from "../public/feature2.svg";
+import Feature1 from "../public/feature1.svg";
+import Feature3 from "../public/feature3.svg";
+import Check from "../public/check.svg";
+import BlueArrow from "../public/blueArrow.svg";
+import RedArrow from "../public/redArrow.svg";
+import GreenArrow from "../public/greenArrow.svg";
 import Image from "next/image";
 export default function Features() {
   return (

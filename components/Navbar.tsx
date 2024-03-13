@@ -1,6 +1,6 @@
-import Logo from "../../public/logo.svg";
-import User from "../../public/user.svg";
-import Menu from "../../public/hamburger.svg";
+import Logo from "../public/logo.svg";
+import User from "../public/user.svg";
+import Menu from "../public/hamburger.svg";
 import Image from "next/image";
 
 const navLinks = [

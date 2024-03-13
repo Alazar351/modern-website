@@ -1,12 +1,12 @@
 import Image from "next/image";
-import BlueArrow from "../../public/blueArrow.svg";
-import Gradient from "../../public/gradient.svg";
-import HeroImage from "../../public/image1.svg";
-import Google from "../../public/google.svg";
-import Slack from "../../public/slack.svg";
-import Trustpilot from "../../public/trustpilot.svg";
-import Cnn from "../../public/cnn.svg";
-import Clutch from "../../public/clutch.svg";
+import BlueArrow from "../public/blueArrow.svg";
+import Gradient from "../public/gradient.svg";
+import HeroImage from "../public/image1.svg";
+import Google from "../public/google.svg";
+import Slack from "../public/slack.svg";
+import Trustpilot from "../public/trustpilot.svg";
+import Cnn from "../public/cnn.svg";
+import Clutch from "../public/clutch.svg";
 
 export default function Hero() {
   return (
