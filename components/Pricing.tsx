@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 export default function Pricing() {
   return (
-    <div className="py-12 px-5 lg:py-[60px] lg:px-[80px] ">
+    <div className="py-12  lg:py-[60px]  ">
       <h3 className="text-[#172026] font-medium text-2xl text-center lg:text-[42px] ">
         Flexible plans for you
       </h3>
